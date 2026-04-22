@@ -64,20 +64,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Punvenkz10101&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-### 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punvenkz10101&theme=radical&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🚩 Featured Projects
 <!-- Keep only repos that currently exist under your username to avoid 'User Repository Not found' -->
 <table>
